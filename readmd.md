@@ -1,6 +1,6 @@
 # Project Title: FitTrack
 
-**Project Overview**: FitTrack is an application designed to help users track their daily workouts, set goals and visulaize their progress on a daily basis through analytics.
+## **Project Overview**: FitTrack is an application designed to help users track their daily workouts, set goals and visulaize their progress on a daily basis through analytics.
 
 ### Key Features:
 
