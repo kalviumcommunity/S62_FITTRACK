@@ -1,0 +1,38 @@
+meta {
+  name: post request
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://localhost:8080/user
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "userId": "3",
+    "username": "levi_samuel",
+    "email": "levisamuel@gmail.com",
+    "password": "hashed_password_1",
+    "workouts": [
+      {
+        "date": "2025-01-15",
+        "workoutType": "Cardio",
+        "duration":45 ,
+        "caloriesBurned": 25
+      },
+      {
+        "date": "2025-01-16",
+        "workoutType": "Strength Training",
+        "duration": 60,
+        "caloriesBurned": 500
+      }
+    ],
+    "dailyGoals": {
+      "caloriesGoal": 700,
+      "stepsGoal":6000
+    }
+  }
+}
