@@ -20,3 +20,5 @@ React (for building the user interface). Material-UI or Tailwind CSS (for stylin
 Node.js with Express.js (for creating APIs). MongoDB (to store user data, workout logs, and goals).
 
 Why This Project FitTrack involves mastering full-stack development with the MERN stack, which is highly in demand in the industry. The project also combines key concepts like user authentication, CRUD operations and visualization of data.
+
+## Deployed Link: https://s62-fittrack1.pages.dev/
